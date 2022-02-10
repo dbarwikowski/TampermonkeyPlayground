@@ -2,7 +2,7 @@
 // @name         Level-1
 // @version      0.1
 // @match        *
-// @require      level-2.user.js
+// @require      https://github.com/dbarwikowski/TampermonkeyPlayground/raw/main/src/deep-nesting-test/level-2.user.js
 // ==/UserScript==
 
 (function() {
