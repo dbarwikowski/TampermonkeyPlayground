@@ -10,6 +10,7 @@ function level2_config() {
 
 level2_config.prototype = {
     foo: function() {
+        GM_setValue('test', 'test-value');
         console.log("foo");
         level3.bar();
     }
