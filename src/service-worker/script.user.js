@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         User Script
 // @version      0.1
-// @match        https://github.com/dbarwikowski/TampermonkeyPlayground/*
+// @include      https://*
 // ==/UserScript==
 
 (function() {
