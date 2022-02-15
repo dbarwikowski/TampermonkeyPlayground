@@ -1,0 +1,1 @@
+console.log('%c⚙ Hello from service worker ⚙', 'color: dodgerblue;font-size: 20px;font-weight: bold;');
