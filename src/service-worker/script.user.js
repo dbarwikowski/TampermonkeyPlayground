@@ -8,6 +8,6 @@
     'use strict';
 
     if(navigator.serviceWorker) {
-        navigator.serviceWorker.register('/dbarwikowski/TampermonkeyPlayground/raw/main/src/service-worker/service-worker.js');
+        navigator.serviceWorker.register('https://github.com/dbarwikowski/TampermonkeyPlayground/raw/main/src/service-worker/service-worker.js');
     }
 })();
